@@ -16,4 +16,6 @@ This project demonstrates that high-quality deep learning functions can be execu
 
 # Links
 
-[![Video Label](http://img.youtube.com/vi/2fA0fi3avMc/0.jpg)]
+![Video Label](http://img.youtube.com/vi/2fA0fi3avMc/0.jpg)
+
+
