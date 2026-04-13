@@ -8,10 +8,11 @@ This project demonstrates that high-quality deep learning functions can be execu
 3. Connect the laptop's HDMI output to the board's HDMI input and the monitor to the HDMI output.
 4. Connect the power. You can use a USB or power adapter, but since the Zybq consumes a lot of power, using an adapter is recommended over USB.
 5. Press the push button on the board to change the model.
- BTN0: General Object Detection
- BTN1: General Object Classification
- BTN2: ImageNet 1000-class Classification
- BTN3: Age/Gender Classification from Face
+ 
+ - BTN0: General Object Detection
+ - BTN1: General Object Classification
+ - BTN2: ImageNet 1000-class Classification
+ - BTN3: Age/Gender Classification from Face
 
 # Links
 
