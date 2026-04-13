@@ -14,6 +14,10 @@ This project demonstrates that high-quality deep learning functions can be execu
  - BTN2: ImageNet 1000-class Classification
  - BTN3: Age/Gender Classification from Face
 
+# Source Codes
+
+The source code directory contains major Verilog files. The full source code compilable in Vivado is provided as a bundle when you purchase an Arty Z7 board or Pynq board from Neurocoms Co., Ltd. If you need it, please contact amy@neurocoms.com.
+
 # Links
 
 ![Video Label](http://img.youtube.com/vi/2fA0fi3avMc/0.jpg)
