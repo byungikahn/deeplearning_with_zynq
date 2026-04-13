@@ -22,4 +22,6 @@ The source code directory contains major Verilog files. The full source code com
 
 ![Video Label](http://img.youtube.com/vi/2fA0fi3avMc/0.jpg)
 
+(https://www.youtube.com/watch?v=2fA0fi3avMc)
+
 
