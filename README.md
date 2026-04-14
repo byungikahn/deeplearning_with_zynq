@@ -20,7 +20,7 @@ The hardware design used here applies the so-called Neuron-machine architecture 
 
 # Source Codes
 
-The source code directory contains major Verilog files. The full source code compilable in Vivado is provided as a bundle when you purchase an Arty Z7 board or Pynq board from Neurocoms Co., Ltd. If you need it, please contact the company (amy@neurocoms.com).
+The source code directory contains major Verilog files. The full project files compilable in Vivado is provided as a bundle when you purchase an Arty Z7 board or Pynq board from Neurocoms Co., Ltd. If you need it, please contact the company (amy@neurocoms.com).
 
 # Links
 
