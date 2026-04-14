@@ -1,7 +1,7 @@
 # Deep Learning with Zynq Boards
 This project demonstrates that high-quality deep learning functions can be executed on AMD (formerly Xilinx) Zynq FPGA chips. Supported boards include Digilent's Zybo, Arty Z7, Pynq Z1, and TUL's Pynq Z2, which are widely used for development and training. This project is a part of commercial solution and is shared with permission from Neurocoms Co., Ltd.
 
-# The design
+# The Design
 
 The hardware design used here applies the so-called Neuron-machine architecture to fully utilize small hardware resources with almost no idle time, and is arguably the only solution capable of recognizing full video on the Zynq chip using deep learning.
 
